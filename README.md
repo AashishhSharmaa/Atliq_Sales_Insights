@@ -1,1 +1,1 @@
-# Atliq_Sales_Insights
+# Atliq Sales Insights
