@@ -56,3 +56,14 @@ To address this critical situation, Atliq urgently needs a streamlined, user-fri
    The sheets have been organized to tell a cohesive story about Atliq's sales performance. Follow the structured sequence to uncover insights, identify challenges, and explore opportunities for improvement.
 
 Maximize the power of Atliq Sales Insights by immersing yourself in the visualizations and data-driven narrative crafted within Power BI.
+
+## Project Skill Outcomes
+
+1. **Power BI Proficiency**
+2. **MySQL Expertise**
+3. **KPI Implementation:**
+4. **Exploratory Data Analysis (EDA)**
+5. **Predictive Data Analysis**
+6. **Data Visualization Skills**
+7. **Story-telling through Data**
+
