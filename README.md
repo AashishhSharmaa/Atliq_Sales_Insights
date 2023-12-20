@@ -29,11 +29,11 @@ To address this critical situation, Atliq urgently needs a streamlined, user-fri
 1. **Data Integration and Preliminary Analysis:**
    Integrated data into Power BI for initial examination and understanding.
 
-2. Data Modeling and Transformation:
+2. **Data Modeling and Transformation:**
    Employed Power BI to model data, creating a robust framework through data cleaning and transformative processes.
 
-3. Power BI Interactive Dashboard:
+3. **Power BI Interactive Dashboard:**
    Designed an interactive Power BI dashboard, presenting pivotal metrics including total revenue, sales quantity, yearly revenue trends, and the top 5 customers and products spanning 2017-2020.
 
-4. Enhanced Decision Support:
+4. **Enhanced Decision Support:**
    Empowered users with an interactive interface, enabling informed decision-making through dynamic insights extracted from the Power BI dashboard.
