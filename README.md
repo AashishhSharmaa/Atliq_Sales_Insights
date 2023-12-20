@@ -1,5 +1,9 @@
 # Atliq Sales Insights
 
+I crafted a Power BI dashboard featuring key metrics, effectively alleviating Atliq's sales decline challenge. The visualized KPIs provided actionable insights, enabling the sales director to navigate and improve the identified business issues.
+
+![Sales_Insights (2017 - 2020)](https://github.com/AashishhSharmaa/Atliq_Sales_Insights/assets/152653168/7c846368-8f46-44ab-8d07-c189dffb7275)
+
 ## Problem Statement 
 
 Atliq, a hardware company supplying peripherals across India, grapples with a significant problem: a notable decline in sales. Despite having regional offices in various states and a central office in Delhi, the sales director faces challenges in pinpointing the reasons behind the downturn. Communication breakdowns further complicate the issue, as regional managers paint an overly optimistic picture, obscuring the true business landscape. The absence of data insights exacerbates the challenge, leaving the sales director frustrated and unable to make informed decisions.
