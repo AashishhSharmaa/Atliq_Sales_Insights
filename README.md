@@ -14,7 +14,7 @@ To address this critical situation, Atliq urgently needs a streamlined, user-fri
 2. Total Customer Count
 3. Chennai Market Transactions
 4. Distinct Product Codes in Chennai
-5. Transactions in US Dollars
+5. Transactions done in US Dollars
 6. Transactions in 2020 (Joined by Date)
 7. Total Revenue in 2020
 8. Total Revenue in January 2020
