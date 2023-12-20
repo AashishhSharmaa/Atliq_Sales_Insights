@@ -8,3 +8,14 @@ Compounding the issue, the sales director encounters difficulties in obtaining a
 
 To address this critical situation, Atliq urgently needs a streamlined, user-friendly solution for data analysis, enabling the sales director to derive simple yet insightful conclusions and effectively address the underlying issues impacting sales performance.
 
+## Key Performance Indicators (KPI)
+
+1. Total Customer Records
+2. Total Customer Count
+3. Chennai Market Transactions
+4. Distinct Product Codes in Chennai
+5. Transactions in US Dollars
+6. Transactions in 2020 (Joined by Date)
+7. Total Revenue in 2020
+8. Total Revenue in January 2020
+9. Total Revenue in Chennai for 2020
