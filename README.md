@@ -57,7 +57,7 @@ To address this critical situation, Atliq urgently needs a streamlined, user-fri
 
 Maximize the power of Atliq Sales Insights by immersing yourself in the visualizations and data-driven narrative crafted within Power BI.
 
-## Project Skill Outcomes
+## Skills Gained
 
 1. **Power BI Proficiency**
 2. **MySQL Expertise**
