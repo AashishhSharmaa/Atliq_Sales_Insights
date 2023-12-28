@@ -35,27 +35,22 @@ To address this critical situation, Atliq urgently needs a streamlined, user-fri
 3. **Power BI Interactive Dashboard:**
    Designed an interactive Power BI dashboard, presenting pivotal metrics including total revenue, sales quantity, yearly revenue trends, and the top 5 customers and products spanning 2017-2020.
 
-4. **Enhanced Decision Support:**
+**2017**
+![2017](https://github.com/AashishhSharmaa/Atliq_Sales_Insights-Power-BI-Dashboard/assets/152653168/030750d3-6e6c-4795-9fb6-0d4c01ee45c3)
+
+**2018**
+![2018](https://github.com/AashishhSharmaa/Atliq_Sales_Insights-Power-BI-Dashboard/assets/152653168/c6d38177-8230-4f82-8951-60940746c764)
+
+**2019**
+![2019](https://github.com/AashishhSharmaa/Atliq_Sales_Insights-Power-BI-Dashboard/assets/152653168/afd237f6-d92c-47a4-be5b-9b9bb1d61763)
+
+**2020**
+![2020](https://github.com/AashishhSharmaa/Atliq_Sales_Insights-Power-BI-Dashboard/assets/152653168/e9c3110f-2ba3-427b-9739-c680c5c772c4)
+
+5. **Enhanced Decision Support:**
    Empowered users with an interactive interface, enabling informed decision-making through dynamic insights extracted from the Power BI dashboard.
 
-## Viewing Instructions:
 
-1. **Download and Launch:**
-   Download the files provided and open the Atliq_Sales_Insights.pbix file using Power BI.
-
-2. **Central Dashboard:**
-   The initial dashboard, titled "Atliq Sales Overview," functions as the central hub for comprehensive insights into the sales performance of the company. Begin your exploration here to get an overview of key metrics.
-
-3. **Navigating Sales Insights:**
-   The subsequent sheets in the workbook delve into specific aspects of sales analysis. Follow the logical flow outlined in the central dashboard to seamlessly navigate through detailed insights, such as regional performance, product-wise trends, and customer analytics.
-
-4. **Interactive Visualizations:**
-   Leverage the interactive features within each dashboard to drill down into specific data points. Utilize filters, tooltips, and dynamic elements to gain a nuanced understanding of sales trends and patterns.
-
-5. **Storyline Flow:**
-   The sheets have been organized to tell a cohesive story about Atliq's sales performance. Follow the structured sequence to uncover insights, identify challenges, and explore opportunities for improvement.
-
-Maximize the power of Atliq Sales Insights by immersing yourself in the visualizations and data-driven narrative crafted within Power BI.
 
 ## Skills Gained
 
